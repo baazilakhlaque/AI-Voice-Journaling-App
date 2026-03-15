@@ -4,6 +4,8 @@ I tried journaling by writing. I had so many thoughts racing through my mind, bu
 
 **VoiceJournal** lets you speak your thoughts and instantly turns them into written journal entries. It supports English and Urdu with real-time transcription, so you can journal at the speed of thought.
 
+Deployed link: [https://voicejournal-sigma.vercel.app/notes/new](https://voicejournal-sigma.vercel.app/)
+
 ## Features
 
 - Voice-to-text journaling with real-time transcription
