@@ -14,10 +14,10 @@ I tried journaling by writing. I had so many thoughts racing through my mind, bu
 - Email-based authentication
 
 ## Tech Stack
-Frontend: Next.js, React, Tailwind CSS, shadcn/ui 
-Auth & Database: Supabase (PostgreSQL, Auth, Storage) 
-Speech-to-Text: OpenAI Whisper API 
-Deployment: Vercel
+- **Frontend**: Next.js, React, Tailwind CSS, shadcn/ui 
+- **Auth & Database**: Supabase (PostgreSQL, Auth, Storage)
+- **Speech-to-Text**: OpenAI Whisper API
+- **Deployment**: Vercel
 
 ## Getting Started
 
